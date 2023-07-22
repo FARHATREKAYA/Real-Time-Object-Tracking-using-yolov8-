@@ -18,13 +18,13 @@ The script will take a few seconds to load the YOLOv8 model and then start track
 
 The script will take a few seconds to load the YOLOv8 model and then start tracking objects in the video file. The tracked objects will be annotated with their ID, class, and confidence score.
 
-`[ID] [Class] [Confidence]
+[ID] [Class] [Confidence]
 <br>
 1 Person 0.99
 <br>
 2 Car 0.98
 <br>
-3 Bicycle 0.95`
+3 Bicycle 0.95
 
 
 The `ID` of the object is a unique identifier that is assigned to the object when it is first detected. The class of the object is the type of object that has been detected. The confidence score is a measure of how confident the model is that the object has been correctly detected.
